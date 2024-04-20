@@ -1,0 +1,115 @@
+ORDER_NUMBER,QUANTITYORDERED,PRICEEACH,REVENUE,ORDERDATE,QTR_ID,MONTH_ID,YEAR_ID,PRODUCTLINE,CUSTOMER,ADDRESS,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY,SALES_REP_LASTNAME,SALES_REP_FIRSTNAME,SALES_REP_FULLNAME
+10100,30,$100.00,"$3,000.00",2019-01-06,1,1,2019,Vintage Cars,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,NA,Young,Valarie,Valarie Young
+10101,46,$53.76,"$2,472.96",2019-01-09,1,1,2019,Vintage Cars,"Blauer See Auto, Co.",Lyonerstr. 34,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Roland Keitel
+10102,39,$100.00,"$3,900.00",2019-01-10,1,1,2019,Vintage Cars,Vitachrome Inc.,2678 Kingston Rd.,NYC,NY,10022,USA,NA,Frick,Michael,Michael Frick
+10102,39,$100.00,"$3,900.00",2019-01-10,1,1,2019,Vintage Cars,Vitachrome Inc.,2678 Kingston Rd.,NYC,NY,10022,USA,NA,Frick,Michael,Michael Frick
+10103,42,$100.00,"$4,200.00",2019-01-29,1,1,2019,Classic Cars,Baane Mini Imports,Erling Skakkes gate 78,Stavern,,4110,Norway,EMEA,Bergulfsen,Jonas,Jonas Bergulfsen
+10104,34,$100.00,"$3,400.00",2019-01-31,1,1,2019,Classic Cars,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,,28034,Spain,EMEA,Freyre,Diego,Diego Freyre
+10105,38,$100.00,"$3,800.00",2019-02-11,1,2,2019,Trains,Danish Wholesale Imports,Vinb'ltet 34,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Jytte Petersen
+10106,28,$88.63,"$2,481.64",2019-02-17,1,2,2019,Planes,Rovelli Gifts,Via Ludovico il Moro 22,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Giovanni Rovelli
+10107,20,$92.90,"$1,858.00",2019-02-24,1,2,2019,Motorcycles,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,NA,Yu,Kwai,Kwai Yu
+10108,40,$100.00,"$4,000.00",2019-03-03,1,3,2019,Classic Cars,Cruz & Sons Co.,15 McCallum Street - NatWest Center #13-03,Makati City,,1227 MM,Philippines,Japan,Cruz,Arnold,Arnold Cruz
+10109,47,$100.00,"$4,700.00",2019-03-10,1,3,2019,Classic Cars,Motor Mint Distributors Inc.,11328 Douglas Av.,Philadelphia,PA,71270,USA,NA,Hernandez,Rosa,Rosa Hernandez
+10110,27,$73.62,"$1,987.74",2019-03-18,1,3,2019,Classic Cars,"AV Stores, Co.",Fauntleroy Circus,Manchester,,EC2 5NT,UK,EMEA,Ashworth,Victoria,Victoria Ashworth
+10111,37,$100.00,"$3,700.00",2019-03-18,1,3,2019,Classic Cars,"AV Stores, Co.",Fauntleroy Circus,Manchester,,EC2 5NT,UK,EMEA,Ashworth,Victoria,Victoria Ashworth
+10112,23,$100.00,"$2,300.00",2019-03-24,1,3,2019,Vintage Cars,"Volvo Model Replicas, Co",Berguvsv„gen 8,Lule,,S-958 22,Sweden,EMEA,Berglund,Christina,Christina Berglund
+10113,23,$68.52,"$1,575.96",2019-03-26,1,3,2019,Trucks and Buses,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Valarie Nelson
+10114,28,$55.73,"$1,560.44",2019-04-01,2,4,2019,Trucks and Buses,"La Corne D'abondance, Co.","265, boulevard Charonne",Paris,,75012,France,EMEA,Bertrand,Marie,Marie Bertrand
+10114,28,$55.73,"$1,560.44",2019-04-01,2,4,2019,Trucks and Buses,"La Corne D'abondance, Co.","265, boulevard Charonne",Paris,,75012,France,EMEA,Bertrand,Marie,Marie Bertrand
+10115,27,$100.00,"$2,700.00",2019-04-04,2,4,2019,Trucks and Buses,Classic Legends Inc.,5905 Pompton St.,NYC,NY,10022,USA,NA,Hernandez,Maria,Maria Hernandez
+10116,27,$63.38,"$1,711.26",2019-04-11,2,4,2019,Trains,Royale Belge,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium,EMEA,Cartrain,Pascale,Pascale Cartrain
+10117,50,$43.68,"$2,184.00",2019-04-16,2,4,2019,Ships,"Dragon Souveniers, Ltd.","Bronz Sok., Bronz Apt. 3/6 Tesvikiye",Singapore,,79903,Singapore,Japan,Natividad,Eric,Eric Natividad
+10118,36,$100.00,"$3,600.00",2019-04-21,2,4,2019,Ships,Enaco Distributors,"Rambla de Catalu¤a, 23",Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Eduardo Saavedra
+10119,46,$100.00,"$4,600.00",2019-04-28,2,4,2019,Classic Cars,Salzburg Collectables,Geislweg 14,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Georg Pipps
+10120,43,$76.00,"$3,268.00",2019-04-29,2,4,2019,Planes,"Australian Collectors, Co.",636 St Kilda Road,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Peter Ferguson
+10121,34,$81.35,"$2,765.90",2019-05-07,2,5,2019,Motorcycles,Reims Collectables,59 rue de l'Abbaye,Reims,,51100,France,EMEA,Henriot,Paul,Paul Henriot
+10122,26,$100.00,"$2,600.00",2019-05-20,2,5,2019,Classic Cars,Atelier graphique,"54, rue Royale",Nantes,,44000,France,EMEA,Schmitt,Carine,Carine Schmitt
+10123,46,$100.00,"$4,600.00",2019-05-20,2,5,2019,Classic Cars,Atelier graphique,"54, rue Royale",Nantes,,44000,France,EMEA,Schmitt,Carine,Carine Schmitt
+10124,42,$100.00,"$4,200.00",2019-05-21,2,5,2019,Vintage Cars,Signal Gift Stores,8489 Strong St.,Las Vegas,NV,83030,USA,NA,King,Sue,Sue King
+10125,34,$100.00,"$3,400.00",2019-05-21,2,5,2019,Vintage Cars,"Australian Collectors, Co.",636 St Kilda Road,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Peter Ferguson
+10126,31,$90.17,"$2,795.27",2019-05-28,2,5,2019,Vintage Cars,"Corrida Auto Replicas, Ltd","C/ Araquil, 67",Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Mart¡n Sommer
+10127,45,$100.00,"$4,500.00",2019-06-03,2,6,2019,Trucks and Buses,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,NA,Young,Jeff,Jeff Young
+10128,43,$92.16,"$3,962.88",2019-06-06,2,6,2019,Vintage Cars,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,,28034,Spain,EMEA,Freyre,Diego,Diego Freyre
+10129,33,$100.00,"$3,300.00",2019-06-12,2,6,2019,Classic Cars,"Stylish Desk Decors, Co.",35 King George,London,,WX3 6FW,UK,EMEA,Brown,Ann,Ann Brown
+10130,33,$100.00,"$3,300.00",2019-06-16,2,6,2019,Vintage Cars,Auto-Moto Classics Inc.,16780 Pompton St.,Brickhaven,MA,58339,USA,NA,Taylor,Leslie,Leslie Taylor
+10131,35,$67.14,"$2,349.90",2019-06-16,2,6,2019,Planes,Gift Ideas Corp.,2440 Pompton St.,Glendale,CT,97561,USA,NA,Lewis,Dan,Dan Lewis
+10131,35,$67.14,"$2,349.90",2019-06-16,2,6,2019,Planes,Gift Ideas Corp.,2440 Pompton St.,Glendale,CT,97561,USA,NA,Lewis,Dan,Dan Lewis
+10132,27,$99.67,"$2,691.09",2019-06-27,2,6,2019,Planes,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,,28034,Spain,EMEA,Freyre,Diego,Diego Freyre
+10133,41,$94.74,"$3,884.34",2019-07-01,3,7,2019,Motorcycles,Lyon Souveniers,27 rue du Colonel Pierre Avia,Paris,,75508,France,EMEA,Da Cunha,Daniel,Daniel Da Cunha
+10134,27,$100.00,"$2,700.00",2019-07-01,3,7,2019,Motorcycles,Lyon Souveniers,27 rue du Colonel Pierre Avia,Paris,,75508,France,EMEA,Da Cunha,Daniel,Daniel Da Cunha
+10135,45,$78.00,"$3,510.00",2019-07-02,3,7,2019,Classic Cars,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Valarie Nelson
+10136,41,$100.00,"$4,100.00",2019-07-04,3,7,2019,Classic Cars,Alpha Cognac,1 rue Alsace-Lorraine,Toulouse,,31000,France,EMEA,Roulet,Annette,Annette Roulet
+10137,44,$99.55,"$4,380.20",2019-07-10,3,7,2019,Classic Cars,Reims Collectables,59 rue de l'Abbaye,Reims,,51100,France,EMEA,Henriot,Paul,Paul Henriot
+10138,30,$100.00,"$3,000.00",2019-07-16,3,7,2019,Vintage Cars,Souveniers and Setts Co.,"16, Juhu Tara, Santacruz West",Mumbai,MH,400049,India,APAC,Huxley,Adrian,Adrian Huxley
+10139,29,$100.00,"$2,900.00",2019-07-16,3,7,2019,Vintage Cars,Bikers Muscle Ltd.,Lord Sinha Road,Kolkata,WB,700071,India,APAC,Huxley,Adrian,Adrian Huxley
+10140,37,$100.00,"$3,700.00",2019-07-24,3,7,2019,Classic Cars,Technics Stores Inc.,9408 Furth Circle,Burlingame,CA,94217,USA,NA,Hirano,Juri,Juri Hirano
+10141,44,$100.00,"$4,400.00",2019-08-01,3,8,2019,Trucks and Buses,Suominen Souveniers,"Software Engineering Center, SEC Oy",Espoo,,FIN-02271,Finland,EMEA,Suominen,Kalle,Kalle Suominen
+10142,33,$100.00,"$3,300.00",2019-08-08,3,8,2019,Classic Cars,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Valarie Nelson
+10143,27,$60.97,"$1,646.19",2019-08-10,3,8,2019,Planes,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,MA,50553,USA,NA,Tam,Wing C,Wing C Tam
+10144,20,$81.86,"$1,637.20",2019-08-13,3,8,2019,Vintage Cars,Royale Belge,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium,EMEA,Cartrain,Pascale,Pascale Cartrain
+10145,45,$83.26,"$3,746.70",2019-08-25,3,8,2019,Motorcycles,Toys4GrownUps.com,78934 Hillside Dr.,Pasadena,CA,90003,USA,NA,Young,Julie,Julie Young
+10146,47,$67.14,"$3,155.58",2019-09-03,3,9,2019,Motorcycles,Gift Ideas Corp.,2440 Pompton St.,Glendale,CT,97561,USA,NA,Lewis,Dan,Dan Lewis
+10147,31,$64.67,"$2,004.77",2019-09-05,3,9,2019,Classic Cars,Collectables For Less Inc.,7825 Douglas Av.,Brickhaven,MA,58339,USA,NA,Nelson,Allen,Allen Nelson
+10148,23,$100.00,"$2,300.00",2019-09-11,3,9,2019,Classic Cars,"Anna's Decorations, Ltd",201 Miller Street,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Anna O'Hara
+10149,23,$100.00,"$2,300.00",2019-09-12,3,9,2019,Vintage Cars,Signal Collectibles Ltd.,2793 Furth Circle,Brisbane,CA,94217,USA,NA,Taylor,Sue,Sue Taylor
+10150,20,$100.00,"$2,000.00",2019-09-19,3,9,2019,Classic Cars,"Dragon Souveniers, Ltd.","Bronz Sok., Bronz Apt. 3/6 Tesvikiye",Singapore,,79903,Singapore,Japan,Natividad,Eric,Eric Natividad
+10151,24,$100.00,"$2,400.00",2019-09-21,3,9,2019,Trucks and Buses,"Oulu Toy Supplies, Inc.",Torikatu 38,Oulu,,90110,Finland,EMEA,Koskitalo,Pirkko,Pirkko Koskitalo
+10152,33,$50.95,"$1,681.35",2019-09-25,3,9,2019,Trains,"Australian Gift Network, Co",31 Duncan St. West End,South Brisbane,Queensland,4101,Australia,APAC,Calaghan,Tony,Tony Calaghan
+10153,20,$100.00,"$2,000.00",2019-09-28,3,9,2019,Classic Cars,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,,28034,Spain,EMEA,Freyre,Diego,Diego Freyre
+10154,23,$100.00,"$2,300.00",2019-10-05,4,10,2019,Classic Cars,"Norway Gifts By Mail, Co.","Drammensveien 126 A, PB 744 Sentrum",Oslo,,N 0106,Norway,EMEA,Klaeboe,Jan,Jan Klaeboe
+10155,50,$100.00,"$5,000.00",2019-10-05,4,10,2019,Classic Cars,"Norway Gifts By Mail, Co.","Drammensveien 126 A, PB 744 Sentrum",Oslo,,N 0106,Norway,EMEA,Klaeboe,Jan,Jan Klaeboe
+10156,48,$100.00,"$4,800.00",2019-10-08,4,10,2019,Planes,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,,28034,Spain,EMEA,Freyre,Diego,Diego Freyre
+10157,49,$100.00,"$4,900.00",2019-10-10,4,10,2019,Motorcycles,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,NA,Brown,Julie,Julie Brown
+10158,37,$100.00,"$3,700.00",2019-10-10,4,10,2019,Motorcycles,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,NA,Brown,Julie,Julie Brown
+10159,22,$100.00,"$2,200.00",2019-10-10,4,10,2019,Motorcycles,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,NA,Brown,Julie,Julie Brown
+10160,35,$100.00,"$3,500.00",2019-10-11,4,10,2019,Classic Cars,"Men 'R' US Retailers, Ltd.",6047 Douglas Av.,Los Angeles,CA,,USA,NA,Chandler,Michael,Michael Chandler
+10161,28,$100.00,"$2,800.00",2019-10-17,4,10,2019,Classic Cars,Heintze Collectables,Smagsloget 45,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Palle Ibsen
+10162,37,$38.98,"$1,442.26",2019-10-18,4,10,2019,Vintage Cars,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,NA,Brown,Julie,Julie Brown
+10163,21,$100.00,"$2,100.00",2019-10-20,4,10,2019,Classic Cars,Classic Legends Inc.,5905 Pompton St.,NYC,NY,10022,USA,NA,Hernandez,Maria,Maria Hernandez
+10163,31,$100.00,"$3,100.00",2019-10-20,4,10,2019,Vintage Cars,Classic Legends Inc.,5905 Pompton St.,NYC,NY,10022,USA,NA,Hernandez,Maria,Maria Hernandez
+10164,46,$73.12,"$3,363.52",2019-10-23,4,10,2019,Ships,Scandinavian Gift Ideas,?kergatan 24,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Maria Larsson
+10165,34,$100.00,"$3,400.00",2019-10-23,4,10,2019,Vintage Cars,Scandinavian Gift Ideas,?kergatan 24,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Maria Larsson
+10166,33,$100.00,"$3,300.00",2019-10-23,4,10,2019,Ships,Scandinavian Gift Ideas,?kergatan 24,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Maria Larsson
+10167,21,$69.88,"$1,467.48",2019-10-23,4,10,2019,Planes,Scandinavian Gift Ideas,?kergatan 24,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Maria Larsson
+10168,30,$100.00,"$3,000.00",2019-11-04,4,11,2019,Classic Cars,"Anna's Decorations, Ltd",201 Miller Street,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Anna O'Hara
+10169,35,$100.00,"$3,500.00",2019-11-04,4,11,2019,Motorcycles,"Anna's Decorations, Ltd",201 Miller Street,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Anna O'Hara
+10170,47,$100.00,"$4,700.00",2019-11-04,4,11,2019,Classic Cars,Mini Auto Werke,Kirchgasse 6,Graz,,8010,Austria,EMEA,Mendel,Roland,Roland Mendel
+10171,35,$100.00,"$3,500.00",2019-11-05,4,11,2019,Classic Cars,Quebec Home Shopping Network,43 rue St. Laurent,Montreal,Quebec,H1J 1C3,Canada,NA,Fresnisre,Jean,Jean Fresnisre
+10172,42,$100.00,"$4,200.00",2019-11-05,4,11,2019,Classic Cars,Gift Depot Inc.,25593 South Bay Ln.,Bridgewater,CT,97562,USA,NA,King,Julie,Julie King
+10173,24,$100.00,"$2,400.00",2019-11-05,4,11,2019,Vintage Cars,Rovelli Gifts,Via Ludovico il Moro 22,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Giovanni Rovelli
+10174,43,$100.00,"$4,300.00",2019-11-06,4,11,2019,Trucks and Buses,"Australian Gift Network, Co",31 Duncan St. West End,South Brisbane,Queensland,4101,Australia,APAC,Calaghan,Tony,Tony Calaghan
+10175,47,$100.00,"$4,700.00",2019-11-06,4,11,2019,Classic Cars,L'ordine Souveniers,Strada Provinciale 124,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Maurizio Moroni
+10176,50,$100.00,"$5,000.00",2019-11-06,4,11,2019,Classic Cars,L'ordine Souveniers,Strada Provinciale 124,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Maurizio Moroni
+10177,29,$100.00,"$2,900.00",2019-11-07,4,11,2019,Trains,CAF Imports,"Merchants House, 27-30 Merchant's Quay",Madrid,,28023,Spain,EMEA,Fernandez,Jesus,Jesus Fernandez
+10178,35,$74.60,"$2,611.00",2019-11-07,4,11,2019,Vintage Cars,CAF Imports,"Merchants House, 27-30 Merchant's Quay",Madrid,,28023,Spain,EMEA,Fernandez,Jesus,Jesus Fernandez
+10179,50,$100.00,"$5,000.00",2019-11-07,4,11,2019,Ships,CAF Imports,"Merchants House, 27-30 Merchant's Quay",Madrid,,28023,Spain,EMEA,Fernandez,Jesus,Jesus Fernandez
+10180,25,$64.20,"$1,605.00",2019-11-11,4,11,2019,Motorcycles,Daedalus Designs Imports,"184, chausse de Tournai",Lille,,59000,France,EMEA,Rance,Martine,Martine Rance
+10181,23,$42.26,$971.98,2019-11-12,4,11,2019,Vintage Cars,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Valarie Nelson
+10182,23,$100.00,"$2,300.00",2019-11-13,4,11,2019,Classic Cars,"Classic Gift Ideas, Inc",782 First Street,Philadelphia,PA,71270,USA,NA,Cervantes,Francisca,Francisca Cervantes
+10183,28,$100.00,"$2,800.00",2019-11-13,4,11,2019,Classic Cars,"Classic Gift Ideas, Inc",782 First Street,Philadelphia,PA,71270,USA,NA,Cervantes,Francisca,Francisca Cervantes
+10184,43,$100.00,"$4,300.00",2019-11-14,4,11,2019,Classic Cars,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,MA,50553,USA,NA,Tam,Wing C,Wing C Tam
+10185,37,$100.00,"$3,700.00",2019-11-14,4,11,2019,Trucks and Buses,"Iberia Gift Imports, Corp.","C/ Romero, 33",Sevilla,,41101,Spain,EMEA,Roel,Jose Pedro,Jose Pedro Roel
+10186,32,$100.00,"$3,200.00",2019-11-14,4,11,2019,Planes,"Double Decker Gift Stores, Ltd",120 Hanover Sq.,London,,WA1 1DP,UK,EMEA,Hardy,Thomas,Thomas Hardy
+10187,32,$65.42,"$2,093.44",2019-11-18,4,11,2019,Motorcycles,Herkku Gifts,"Drammen 121, PR 744 Sentrum",Bergen,,N 5804,Norway,EMEA,Oeztan,Veysel,Veysel Oeztan
+10188,25,$100.00,"$2,500.00",2019-11-18,4,11,2019,Motorcycles,Herkku Gifts,"Drammen 121, PR 744 Sentrum",Bergen,,N 5804,Norway,EMEA,Oeztan,Veysel,Veysel Oeztan
+10189,46,$32.99,"$1,517.54",2019-11-19,4,11,2019,Motorcycles,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,,28034,Spain,EMEA,Freyre,Diego,Diego Freyre
+10190,42,$85.72,"$3,600.24",2019-11-19,4,11,2019,Motorcycles,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,,28034,Spain,EMEA,Freyre,Diego,Diego Freyre
+10191,32,$100.00,"$3,200.00",2019-11-20,4,11,2019,Classic Cars,"Toms Spezialitten, Ltd",Mehrheimerstr. 369,Koln,,50739,Germany,EMEA,Pfalzheim,Henriette,Henriette Pfalzheim
+10192,37,$69.82,"$2,583.34",2019-11-20,4,11,2019,Classic Cars,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,NA,Young,Valarie,Valarie Young
+10193,28,$93.21,"$2,609.88",2019-11-21,4,11,2019,Vintage Cars,"Indian Collectables, Ltd",7 Allen Row,Kolkata,WB,700091,India,APAC,Connery,Sean,Sean Connery
+10194,38,$100.00,"$3,800.00",2019-11-25,4,11,2019,Trucks and Buses,"Saveley & Henriot, Co.","2, rue du Commerce",Lyon,,69004,France,EMEA,Saveley,Mary,Mary Saveley
+10195,49,$100.00,"$4,900.00",2019-11-25,4,11,2019,Trucks and Buses,Mini Classics,3758 North Pendale Street,White Plains,NY,24067,USA,NA,Frick,Steve,Steve Frick
+10196,50,$94.40,"$4,720.00",2019-11-26,4,11,2019,Ships,Super Scale Inc.,567 North Pendale Street,New Haven,CT,97823,USA,NA,Murphy,Leslie,Leslie Murphy
+10197,24,$90.52,"$2,172.48",2019-11-26,4,11,2019,Ships,Enaco Distributors,"Rambla de Catalu¤a, 23",Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Eduardo Saavedra
+10198,40,$63.67,"$2,546.80",2019-11-27,4,11,2019,Planes,Cruz & Sons Co.,15 McCallum Street - NatWest Center #13-03,Makati City,,1227 MM,Philippines,Japan,Cruz,Arnold,Arnold Cruz
+10200,22,$98.57,"$2,168.54",2019-12-01,4,12,2019,Motorcycles,Mini Wheels Co.,5557 North Pendale Street,San Francisco,CA,,USA,NA,Murphy,Julie,Julie Murphy
+10201,24,$100.00,"$2,400.00",2019-12-01,4,12,2019,Motorcycles,Mini Wheels Co.,5557 North Pendale Street,San Francisco,CA,,USA,NA,Murphy,Julie,Julie Murphy
+10202,20,$100.00,"$2,000.00",2019-12-02,4,12,2019,Classic Cars,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,,28034,Spain,EMEA,Freyre,Diego,Diego Freyre
+10203,44,$82.99,"$3,651.56",2019-12-02,4,12,2019,Classic Cars,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,,28034,Spain,EMEA,Freyre,Diego,Diego Freyre
+10203,47,$100.00,"$4,700.00",2019-12-02,4,12,2019,Classic Cars,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,,28034,Spain,EMEA,Freyre,Diego,Diego Freyre
+10204,32,$37.17,"$1,189.44",2019-12-03,4,12,2019,Vintage Cars,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,,28034,Spain,EMEA,Freyre,Diego,Diego Freyre
+10205,24,$38.08,$913.92,2019-12-03,4,12,2019,Vintage Cars,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,,28034,Spain,EMEA,Freyre,Diego,Diego Freyre
+10206,47,$100.00,"$4,700.00",2019-12-05,4,12,2019,Classic Cars,Canadian Gift Exchange Network,1900 Oak St.,Vancouver,BC,V3F 2K1,Canada,NA,Tannamuri,Yoshi,Yoshi Tannamuri
+10207,47,$100.00,"$4,700.00",2019-12-09,4,12,2019,Trucks and Buses,Diecast Collectables,6251 Ingle Ln.,Boston,MA,51003,USA,NA,Franco,Valarie,Valarie Franco
+10208,45,$56.55,"$2,544.75",2019-12-09,4,12,2019,Trains,Diecast Collectables,6251 Ingle Ln.,Boston,MA,51003,USA,NA,Franco,Valarie,Valarie Franco
+10208,28,$94.92,"$2,657.76",2019-12-09,4,12,2019,Trucks and Buses,Diecast Collectables,6251 Ingle Ln.,Boston,MA,51003,USA,NA,Franco,Valarie,Valarie Franco
