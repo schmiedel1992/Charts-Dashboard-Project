@@ -1,0 +1,84 @@
+SALES_REP_FULLNAME,SUM of REVENUE,AVERAGE SALES REVENUE
+Adrian Huxley,"$5,900.00","$5,586.55"
+Allen Nelson,"$2,004.77","$5,586.55"
+Ann Brown,"$3,300.00","$5,586.55"
+Anna O'Hara,"$8,800.00","$5,586.55"
+Annette Roulet,"$4,100.00","$5,586.55"
+Arnold Cruz,"$6,546.80","$5,586.55"
+Carine Schmitt,"$7,200.00","$5,586.55"
+Christina Berglund,"$2,300.00","$5,586.55"
+Dan Lewis,"$7,855.38","$5,586.55"
+Daniel Da Cunha,"$6,584.34","$5,586.55"
+Diego Freyre,"$34,426.67","$5,586.55"
+Eduardo Saavedra,"$5,772.48","$5,586.55"
+Eric Natividad,"$4,184.00","$5,586.55"
+Francisca Cervantes,"$5,100.00","$5,586.55"
+Georg Pipps,"$4,600.00","$5,586.55"
+Giovanni Rovelli,"$4,881.64","$5,586.55"
+Henriette Pfalzheim,"$3,200.00","$5,586.55"
+Jan Klaeboe,"$7,300.00","$5,586.55"
+Jean Fresnisre,"$3,500.00","$5,586.55"
+Jeff Young,"$4,500.00","$5,586.55"
+Jesus Fernandez,"$10,511.00","$5,586.55"
+Jonas Bergulfsen,"$4,200.00","$5,586.55"
+Jose Pedro Roel,"$3,700.00","$5,586.55"
+Julie Brown,"$12,242.26","$5,586.55"
+Julie King,"$4,200.00","$5,586.55"
+Julie Murphy,"$4,568.54","$5,586.55"
+Julie Young,"$3,746.70","$5,586.55"
+Juri Hirano,"$3,700.00","$5,586.55"
+Jytte Petersen,"$3,800.00","$5,586.55"
+Kalle Suominen,"$4,400.00","$5,586.55"
+Kwai Yu,"$1,858.00","$5,586.55"
+Leslie Murphy,"$4,720.00","$5,586.55"
+Leslie Taylor,"$3,300.00","$5,586.55"
+Maria Hernandez,"$7,900.00","$5,586.55"
+Maria Larsson,"$11,531.00","$5,586.55"
+Marie Bertrand,"$3,120.88","$5,586.55"
+Mart¡n Sommer,"$2,795.27","$5,586.55"
+Martine Rance,"$1,605.00","$5,586.55"
+Mary Saveley,"$3,800.00","$5,586.55"
+Maurizio Moroni,"$9,700.00","$5,586.55"
+Michael Chandler,"$3,500.00","$5,586.55"
+Michael Frick,"$7,800.00","$5,586.55"
+Palle Ibsen,"$2,800.00","$5,586.55"
+Pascale Cartrain,"$3,348.46","$5,586.55"
+Paul Henriot,"$7,146.10","$5,586.55"
+Peter Ferguson,"$6,668.00","$5,586.55"
+Pirkko Koskitalo,"$2,400.00","$5,586.55"
+Roland Keitel,"$2,472.96","$5,586.55"
+Roland Mendel,"$4,700.00","$5,586.55"
+Rosa Hernandez,"$4,700.00","$5,586.55"
+Sean Connery,"$2,609.88","$5,586.55"
+Steve Frick,"$4,900.00","$5,586.55"
+Sue King,"$4,200.00","$5,586.55"
+Sue Taylor,"$2,300.00","$5,586.55"
+Thomas Hardy,"$3,200.00","$5,586.55"
+Tony Calaghan,"$5,981.35","$5,586.55"
+Valarie Franco,"$9,902.51","$5,586.55"
+Valarie Nelson,"$9,357.94","$5,586.55"
+Valarie Young,"$5,583.34","$5,586.55"
+Veysel Oeztan,"$4,593.44","$5,586.55"
+Victoria Ashworth,"$5,687.74","$5,586.55"
+Wing C Tam,"$5,946.19","$5,586.55"
+Yoshi Tannamuri,"$4,700.00","$5,586.55"
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+MONTH_ID,SUM of REVENUE,
+1,"$20,872.96",
+2,"$8,139.64",
+3,"$18,263.70",
+4,"$21,184.14",
+5,"$20,361.17",
+6,"$22,453.77",
+7,"$28,174.54",
+8,"$14,730.09",
+9,"$17,841.70",
+10,"$47,373.26",
+11,"$100,931.70",
+12,"$31,625.97",

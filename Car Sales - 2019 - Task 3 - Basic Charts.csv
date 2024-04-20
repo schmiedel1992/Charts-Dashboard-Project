@@ -1,0 +1,33 @@
+Function Used,"`=SUMIF(range,criterion,[sum_range]) ",
+Function Used,"`=SUM(value1, value2, ...)",
+,,
+PRODUCTLINE,SALES,
+Vintage Cars,730,
+Classic Cars,1401,
+Trains,172,
+Planes,336,
+Motorcycles,573,
+Trucks and Buses,461,
+Ships,289,
+,,
+,,
+MONTH_ID,SALES_UNITS,REVENUE
+1,230,"$20,872.96"
+2,86,"$8,139.64"
+3,197,"$18,263.70"
+4,285,"$21,184.14"
+5,213,"$20,361.17"
+6,251,"$22,453.77"
+7,294,"$28,174.54"
+8,169,"$14,730.09"
+9,221,"$17,841.70"
+10,515,"$47,373.26"
+11,1121,"$100,931.70"
+12,380,"$31,625.97"
+,,
+,,
+QUARTER,REVENUE,
+1,"$47,276.30",
+2,"$63,999.08",
+3,"$60,746.33",
+4,"$179,930.93",

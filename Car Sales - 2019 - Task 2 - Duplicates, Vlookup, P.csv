@@ -1,0 +1,52 @@
+ORDER_NUMBER,QUANTITYORDERED,PRICEEACH,REVENUE,PRODUCTLINE,CUSTOMER,ADDRESS,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY,SALES_REP_LASTNAME
+10100,30,$100.00,"$3,000.00",Vintage Cars,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,NA,Young
+10101,46,$53.76,"$2,472.96",Vintage Cars,"Blauer See Auto, Co.",Lyonerstr. 34,Frankfurt,,60528,Germany,EMEA,Keitel
+10102,39,$100.00,"$3,900.00",Vintage Cars,Vitachrome Inc.,2678 Kingston Rd.,NYC,NY,10022,USA,NA,Frick
+10102,39,$100.00,"$3,900.00",Vintage Cars,Vitachrome Inc.,2678 Kingston Rd.,NYC,NY,10022,USA,NA,Frick
+10103,42,$100.00,"$4,200.00",Classic Cars,Baane Mini Imports,Erling Skakkes gate 78,Stavern,,4110,Norway,EMEA,Bergulfsen
+10104,34,$100.00,"$3,400.00",Classic Cars,Euro Shopping Channel,"C/ Moralzarzal, 86",Madrid,,28034,Spain,EMEA,Freyre
+10105,38,$100.00,"$3,800.00",Trains,Danish Wholesale Imports,Vinb'ltet 34,Kobenhavn,,1734,Denmark,EMEA,Petersen
+10106,28,$88.63,"$2,481.64",Planes,Rovelli Gifts,Via Ludovico il Moro 22,Bergamo,,24100,Italy,EMEA,Rovelli
+10107,20,$92.90,"$1,858.00",Motorcycles,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,NA,Yu
+10108,40,$100.00,"$4,000.00",Classic Cars,Cruz & Sons Co.,15 McCallum Street - NatWest Center #13-03,Makati City,,1227 MM,Philippines,Japan,Cruz
+10109,47,$100.00,"$4,700.00",Classic Cars,Motor Mint Distributors Inc.,11328 Douglas Av.,Philadelphia,PA,71270,USA,NA,Hernandez
+10110,27,$73.62,"$1,987.74",Classic Cars,"AV Stores, Co.",Fauntleroy Circus,Manchester,,EC2 5NT,UK,EMEA,Ashworth
+10111,37,$100.00,"$3,700.00",Classic Cars,"AV Stores, Co.",Fauntleroy Circus,Manchester,,EC2 5NT,UK,EMEA,Ashworth
+10112,23,$100.00,"$2,300.00",Vintage Cars,"Volvo Model Replicas, Co",Berguvsv„gen 8,Lule,,S-958 22,Sweden,EMEA,Berglund
+10113,23,$68.52,"$1,575.96",Trucks and Buses,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,NA,Nelson
+10114,28,$55.73,"$1,560.44",Trucks and Buses,"La Corne D'abondance, Co.","265, boulevard Charonne",Paris,,75012,France,EMEA,Bertrand
+10114,28,$55.73,"$1,560.44",Trucks and Buses,"La Corne D'abondance, Co.","265, boulevard Charonne",Paris,,75012,France,EMEA,Bertrand
+10115,27,$100.00,"$2,700.00",Trucks and Buses,Classic Legends Inc.,5905 Pompton St.,NYC,NY,10022,USA,NA,Hernandez
+10116,27,$63.38,"$1,711.26",Trains,Royale Belge,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium,EMEA,Cartrain
+10117,50,$43.68,"$2,184.00",Ships,"Dragon Souveniers, Ltd.","Bronz Sok., Bronz Apt. 3/6 Tesvikiye",Singapore,,79903,Singapore,Japan,Natividad
+10118,36,$100.00,"$3,600.00",Ships,Enaco Distributors,"Rambla de Catalu¤a, 23",Barcelona,,8022,Spain,EMEA,Saavedra
+10119,46,$100.00,"$4,600.00",Classic Cars,Salzburg Collectables,Geislweg 14,Salzburg,,5020,Austria,EMEA,Pipps
+10120,43,$76.00,"$3,268.00",Planes,"Australian Collectors, Co.",636 St Kilda Road,Melbourne,Victoria,3004,Australia,APAC,Ferguson
+10121,34,$81.35,"$2,765.90",Motorcycles,Reims Collectables,59 rue de l'Abbaye,Reims,,51100,France,EMEA,Henriot
+10122,26,$100.00,"$2,600.00",Classic Cars,Atelier graphique,"54, rue Royale",Nantes,,44000,France,EMEA,Schmitt
+,,,,,,,,,,,,
+,Order Number,Customer Name,Country,,"$73,826.34",,,,,,,
+,10103,Baane Mini Imports,Norway,,,,,,,,,
+,10108,Cruz & Sons Co.,Philippines,,,,,,,,,
+,10111,"AV Stores, Co.",UK,,,,,,,,,
+,10116,Royale Belge,Belgium,,,,,,,,,
+,10119,Salzburg Collectables,Austria,,,,,,,,,
+,10122,Atelier graphique,France,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,COUNTRY,COUNT of ORDER_NUMBER,,,,,,,,,,
+,Australia,1,,,,,,,,,,
+,Austria,1,,,,,,,,,,
+,Belgium,1,,,,,,,,,,
+,Denmark,1,,,,,,,,,,
+,France,4,,,,,,,,,,
+,Germany,1,,,,,,,,,,
+,Italy,1,,,,,,,,,,
+,Norway,1,,,,,,,,,,
+,Philippines,1,,,,,,,,,,
+,Singapore,1,,,,,,,,,,
+,Spain,2,,,,,,,,,,
+,Sweden,1,,,,,,,,,,
+,UK,2,,,,,,,,,,
+,USA,7,,,,,,,,,,
+,Grand Total,25,,,,,,,,,,

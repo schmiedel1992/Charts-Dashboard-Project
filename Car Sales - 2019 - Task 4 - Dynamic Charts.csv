@@ -1,0 +1,19 @@
+Sales_REP_FULL_NAME,ORDER_NUMBER,QUANTITYORDERED,PRICEEACH,REVENUE,ORDERDATE,MONTH_ID,PRODUCTLINE,CUSTOMER,CITY,COUNTRY,TERRITORY,SALES_REP_LASTNAME,SALES_REP_FIRSTNAME
+Jan Klaeboe,10154,23,$100.00,"$2,300.00",9/5/2019,9,Classic Cars,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Klaeboe,Jan
+Jan Klaeboe,10155,50,$100.00,"$5,000.00",9/5/2019,9,Classic Cars,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Klaeboe,Jan
+Maria Larsson,10156,48,$100.00,"$4,800.00",9/8/2019,9,Planes,Euro Shopping Channel,Madrid,Spain,EMEA,Larsson,Maria
+Julie Brown,10157,49,$100.00,"$4,900.00",9/10/2019,9,Motorcycles,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie
+Julie Brown,10158,37,$100.00,"$3,700.00",9/10/2019,9,Motorcycles,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie
+Julie Brown,10159,22,$100.00,"$2,200.00",9/10/2019,9,Motorcycles,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie
+Michael Chandler,10160,35,$100.00,"$3,500.00",9/11/2019,9,Classic Cars,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,NA,Chandler,Michael
+Maria Hernandez,10161,28,$100.00,"$2,800.00",9/17/2019,9,Classic Cars,Heintze Collectables,Aaarhus,Denmark,EMEA,Hernandez,Maria
+Julie Brown,10162,37,$38.98,"$1,442.26",10/18/2019,10,Vintage Cars,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie
+Maria Hernandez,10163,21,$100.00,"$2,100.00",10/20/2019,10,Classic Cars,Classic Legends Inc.,NYC,USA,NA,Hernandez,Maria
+Maria Hernandez,10163,31,$100.00,"$3,100.00",10/20/2019,10,Vintage Cars,Classic Legends Inc.,NYC,USA,NA,Hernandez,Maria
+Jan Klaeboe,10164,46,$73.12,"$3,363.52",10/23/2019,10,Ships,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Klaeboe,Jan
+Michael Chandler,10165,34,$100.00,"$3,400.00",10/23/2019,10,Vintage Cars,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Chandler,Michael
+Maria Larsson,10166,33,$100.00,"$3,300.00",10/23/2019,10,Ships,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria
+Maria Larsson,10167,21,$69.88,"$1,467.48",10/23/2019,10,Planes,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria
+,,,,,,,,,,,,,
+SALES REP,SEPTEMBER,OCTOBER,,,,,,,,,,,
+Maria Hernandez,"$2,800.00","$5,200.00",,,,,,,,,,,

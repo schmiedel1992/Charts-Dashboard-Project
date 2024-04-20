@@ -1,0 +1,20 @@
+SUM of QUANTITYORDERED,MONTH_ID,,,,,,,,,,,
+PRODUCTLINE,1,2,3,4,5,6,7,8,9,10,11,12
+Classic Cars,76,,151,46,72,33,167,33,94,157,414,158
+Motorcycles,,20,,,34,,68,45,47,108,205,46
+Planes,,28,,43,,97,,27,,69,72,
+Ships,,,,86,,,,,,79,124,
+Trains,,38,,27,,,,,33,,29,45
+Trucks and Buses,,,23,83,,45,,44,24,,167,75
+Vintage Cars,154,,23,,107,76,59,20,23,102,110,56
+Grand Total,230,86,197,285,213,251,294,169,221,515,1121,380
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+PRODUCTLINE,SUM of QUANTITYORDERED,,,,,,,,,,,
+Classic Cars,1401,,,,,,,,,,,
+Motorcycles,573,,,,,,,,,,,
+Planes,336,,,,,,,,,,,
+Ships,289,,,,,,,,,,,
+Trains,172,,,,,,,,,,,
+Trucks and Buses,461,,,,,,,,,,,
+Vintage Cars,730,,,,,,,,,,,
