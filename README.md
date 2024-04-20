@@ -1,10 +1,12 @@
 # Car-Sales-2019
        # https://docs.google.com/spreadsheets/d/1EtdhCUWqgVNVWFnqEEf23C3XpCWgEfO1JEYyDUnXy8k/edit?usp=sharing
 # My first project
-      # Step by step guided course through Coursera
-      # Performed basic functions and generated basic charts to visualize data.
-      # Generated dynamic charts, sparklines and found duplicate data entries.
-      # Learned how to use slicers and created a robust and dynamic dashboards.
+       # Developed 8 basic charts to visualize data effectively
+       # Implemented dynamic chart generation based on dropdown selection
+       # Utilized Sparklines for concise data representation
+       # Constructed a comprehensive dashboard featuring both basic and advanced charts
+       # Implemented Slicers for efficient data filtering, enhancing the dashboard's robustness and dynamism
+
 
   # SKILLS GAINED
     # Spreadsheet
